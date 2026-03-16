@@ -22,7 +22,7 @@ Essa desorganização gera estresse e pode levar à reprovação. O RootStudy su
 
 ---
 
-## ✨ Funcionalidades Planejadas *(Sugestão de seção)*
+## ✨ Funcionalidades Planejadas
 
 * [ ] Gestão de prazos e calendário de provas.
 * [ ] Calculadora de médias e simulação de notas para aprovação.
