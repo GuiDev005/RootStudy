@@ -29,6 +29,3 @@ Essa desorganização gera estresse e pode levar à reprovação. O RootStudy su
 * [ ] Cronômetro/Pomodoro para foco nos estudos.
 * [ ] Dashboards de acompanhamento de desempenho.
 
-## 🚀 Tecnologias Utilizadas *(Sugestão de seção)*
-
-* *Insira aqui as linguagens, frameworks e banco de dados que planeja utilizar.*
