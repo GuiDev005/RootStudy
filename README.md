@@ -1,15 +1,34 @@
-# RootStudy
+# 📚 RootStudy
 
-## Definição do Domínio
+> **Seu ambiente centralizado para gestão e sucesso na rotina acadêmica.**
 
-### Nome do Projeto
-RootStudy
+## 📖 Sobre o Projeto
 
-### Contexto do Sistema
-O RootStudy é um aplicativo de gestão da rotina acadêmica que auxilia estudantes na organização do tempo, acompanhamento de notas e planejamento de estudos, reunindo essas funcionalidades em um único ambiente.
+O **RootStudy** é um aplicativo de gestão da rotina acadêmica desenvolvido para auxiliar estudantes na organização do tempo, acompanhamento de notas e planejamento de estudos. O objetivo principal é reunir todas essas funcionalidades vitais em um único ambiente, simplificando a vida do estudante.
 
-### Problema que o sistema pretende resolver
-A dificuldade dos estudantes em gerenciar os prazos da faculdade, calcular o desempenho necessário para aprovação e manter a constância e o foco nos estudos sem procrastinar. Isso gera desorganização e pode levar à reprovação. O RootStudy busca centralizar essas informações e ajudar os estudantes a gerenciar melhor sua vida acadêmica.
+## 🎯 O Problema
 
-### Público-Alvo
-- Estudantes universitários
+A vida universitária muitas vezes traz consigo a dificuldade de:
+* Gerenciar múltiplos prazos da faculdade.
+* Calcular o desempenho e as notas necessárias para aprovação.
+* Manter a constância e o foco nos estudos.
+* Evitar a procrastinação.
+
+Essa desorganização gera estresse e pode levar à reprovação. O RootStudy surge para resolver essa dor, centralizando as informações e oferecendo as ferramentas certas para que o estudante gerencie melhor sua vida acadêmica.
+
+## 👥 Público-Alvo
+
+* 🎓 Estudantes universitários.
+
+---
+
+## ✨ Funcionalidades Planejadas *(Sugestão de seção)*
+
+* [ ] Gestão de prazos e calendário de provas.
+* [ ] Calculadora de médias e simulação de notas para aprovação.
+* [ ] Cronômetro/Pomodoro para foco nos estudos.
+* [ ] Dashboards de acompanhamento de desempenho.
+
+## 🚀 Tecnologias Utilizadas *(Sugestão de seção)*
+
+* *Insira aqui as linguagens, frameworks e banco de dados que planeja utilizar.*
