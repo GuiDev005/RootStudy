@@ -18,7 +18,7 @@ Essa desorganização gera estresse e pode levar à reprovação. O RootStudy su
 
 ## 👥 Público-Alvo
 
-* 🎓 Estudantes universitários.
+* 🎓 Estudantes.
 
 ---
 
