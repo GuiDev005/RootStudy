@@ -51,5 +51,43 @@ Dado que existem matérias marcadas com risco de reprovação
 quando o cronograma for gerado, 
 então o sistema deve priorizar mais tempo de estudo para essas matérias. 
 
+## Epic 
+Gestão de contas de usuário. 
+
+Permitir que novos usuários se registrem na aplicação, criem suas contas de forma segura e tenham acesso aos seus dados acadêmicos, garantindo autenticação, validação de informações e proteção dos dados. 
+
+---------------------------------------------------------------------------------------------------
+## História de usuário 
+
+Como novo usuário
+Quero registar-me na aplicação com o meu e-mail e palavra-passe
+Para criar a minha conta e guardar os meus dados académicos de forma segura
+
+---------------------------------------------------------------------------------------------------
+
+## Critérios de aceitação 
+Critério 1 - Cadastro com dados válidos 
+
+Dado que o usuário está na tela de registro, 
+quando ele informar um e-mail válido e uma palavra-passe válida
+então o sistema deve criar a conta com sucesso. 
+
+Critério 2 - Validação do e-mail 
+
+Dado que o usuário está na tela de registro, 
+quando ele inserir um e-mail inválido
+então o sistema deve exibir uma mensagem de erro informando que o e-mail é inválido.
+
+Critério 3 - Validação de palavra-passe
+Dado que o usuário está na tela de registro 
+quando ele inserir uma palavra-passe fora dos critérios, 
+então o sistema deve exibir uma mensagem de erro informando os requisitos mínimos.
+
+Critério 4 - E-mail já cadastrado 
+
+Dado que já existem uma conta com o e-mail informado, 
+quando o usuário tentar se registrar com esse e-mail
+então o sistema deve impedir o cadastro e informar que o e-mail já está em uso.
+
 
 
