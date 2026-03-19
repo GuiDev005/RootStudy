@@ -39,5 +39,10 @@ Dado que o estudante cadastrou as matérias marcadas como maior risco de reprova
 quando o cronograma for gerado, 
 então o sistema deve criar automaticamnete um plano de estudos. 
 
+Critério 5 - Prioridade no cronograma 
+Dado que existem matérias marcadas com risco de reprovação
+quando o cronograma for gerado, 
+então o sistema deve priorizar mais tempo de estudo para essas matérias. 
+
 
 
