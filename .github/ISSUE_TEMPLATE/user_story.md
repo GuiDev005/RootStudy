@@ -7,7 +7,9 @@ title: USXX -
 
 ## Epic
 
-Sistema de Planejamento acadêmico inteligente 
+Sistema de Planejamento acadêmico inteligente. 
+
+Permitir que estudantes organizem sua rotina acadêmica por meio da geração automática de cronogramas de estudo, considerando datas de provas, desempenho nas disciplinas e prioridades, com o objetivo de melhorar o rendimento e aumnetar as chances de aprovação.
 
 ---------------------------------------------------------------------------------------------------
 
