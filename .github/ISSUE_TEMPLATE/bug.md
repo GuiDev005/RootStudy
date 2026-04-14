@@ -6,21 +6,73 @@ labels: bug, triage
 assignees: ''
 ---
 
-## 🐛 Descrição do Bug
-## 🔄 Passos para Reproduzir
-1. Ir para '...'
-2. Clicar em '....'
-3. Preencher o campo com '....'
-4. Ver o erro acontecer
+# BUGXX - Título do Bug
 
-## 🎯 Comportamento Esperado
-## 💥 Comportamento Atual
-## 📱 Ambiente
-- **Dispositivo:** [ex. Tablet, Smartphone]
-- **Sistema Operacional:** [ex. Android 13, iOS 16]
-- **Versão do App/Branch:** [ex. v1.0.2 ou branch 'develop']
+## Descrição do Problema
 
-## 📋 Impacto no Backlog e Prioridade (Uso interno da equipe)
-- **Gravidade:** [ ] Baixa | [ ] Média | [ ] Alta | [ ] Crítica (Blocker)
-- **User Story Afetada:** [Ex: US02]
-- **Dependências:** [Isso bloqueia o desenvolvimento de alguma outra feature?]
+Descreva claramente o problema encontrado no sistema.
+
+------------------------------------------------------------------------
+
+## Passos para Reproduzir
+
+1.  Acessar a página ou funcionalidade
+2.  Executar a ação que causa o erro
+3.  Repetir o processo
+4.  Observar o comportamento inesperado
+
+------------------------------------------------------------------------
+
+## Resultado Esperado
+
+Descreva o comportamento correto esperado do sistema.
+
+------------------------------------------------------------------------
+
+## Resultado Atual
+
+Descreva o comportamento que realmente está acontecendo.
+
+------------------------------------------------------------------------
+
+## Impacto
+
+Explique como o bug afeta o sistema ou os usuários.
+
+Exemplos: - Usuários conseguem selecionar o mesmo número da rifa -
+Inconsistência no sorteio - Falha na experiência do usuário
+
+------------------------------------------------------------------------
+
+## Critérios de Correção
+
+-   [ ] Bug reproduzido pela equipe
+-   [ ] Correção implementada
+-   [ ] Testes realizados
+-   [ ] Teste de regressão executado
+-   [ ] Bug validado após correção
+
+------------------------------------------------------------------------
+
+## Informações do Ambiente
+
+-   Sistema: Web / Mobile
+-   Navegador:
+-   Versão:
+-   Data do teste:
+
+------------------------------------------------------------------------
+
+## Relacionamentos
+
+Epic: E05 - Correção de Defeitos\
+User Story relacionada: (ex: US04 - Escolher número da rifa)
+
+------------------------------------------------------------------------
+
+## Campos recomendados no Board
+
+Tipo: Bug\
+Priority: P0 / P1 / P2\
+Sprint: definir conforme planejamento\
+Story Points: normalmente vazio
