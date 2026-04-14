@@ -1,3 +1,11 @@
+---
+name: Relato de Bug
+about: Crie um relato de bug para nos ajudar a melhorar o RootStudy
+title: '[BUG] '
+labels: bug, triage
+assignees: ''
+---
+
 ------------------------------------------------------------------------
 # BUGXX - Título do Bug
 
